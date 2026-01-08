@@ -1,0 +1,26 @@
+      <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
+open the link html on another tab 
+      <p>See more <a href="https://freecatphotoapp.com" target="_blank">cat photos</a> in our gallery.</p>
+comment structure 
+      <!-- TODO: Add link to cat photos -->
+Step 17 
+Turn the image into a link 
+Here is an example of turning an image into a link:
+Example Code
+<a href="example-link">
+  <img src="image-link.jpg" alt="A photo of a cat.">
+</a>
+Turn the image into a link by surrounding it with necessary element tags. Use https://freecatphotoapp.com as the anchor's href attribute value.
+<a href="https://freecatphotoapp.com"> <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+The section element is used to define sections in a document, such as chapters, headers, footers, or any other sections of the document. It is a semantic element that helps with SEO and accessibility.
+   <main>
+      <h1>CatPhotoApp</h1>
+    <section>
+      <h2>Cat Photos</h2>
+      <p>Everyone loves <a href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg">cute cats</a> online!</p>
+      <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
+      <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+    </section>
+    </main>
+Step 20
+Within the second section element, add a new h2 element with the text Cat Lists.
