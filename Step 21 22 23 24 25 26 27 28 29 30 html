@@ -1,0 +1,55 @@
+Step 21
+      <section>
+        <h2>Cat Lists</h2>
+        <h3>Things cats love:</h3>
+      </section>
+Step 22
+ <h2>Cat Lists</h2>
+        <h3>Things cats love:</h3>
+        <ul>
+        </ul>
+Step 23 
+The li element is used to create a list item in an ordered or unordered list.
+        <ul>
+          <li>catnip</li>
+          <li>laser pointers</li>
+          <li>lasagna</li>
+        </ul>
+Step 24 
+the unordered list
+        <ul>
+          <li>catnip</li>
+          <li>laser pointers</li>
+          <li>lasagna</li>
+        </ul>
+         <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+Step 25 
+The figure element represents self-contained content and will allow you to associate an image with a caption.
+      <figure>
+        <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+      </figure>
+Step 26 
+A figure caption (figcaption) element is used to add a caption to describe the image contained within the figure element.
+  <figcaption..
+        <figure>
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <figcaption>Cats love lasagna.</figcaption>
+        </figure>
+Step 27 
+emphasis is <em> makes the text italic 
+Step 28 
+        <figure>           
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <figcaption>Cats <em>love</em> lasagna.</figcaption> 
+        </figure>
+      <h3>Top 3 things cats hate:</h3>
+Step 29 
+The code for an ordered list (ol) is similar to an unordered list, but list items in an ordered list are numbered when displayed.
+        <h3>Top 3 things cats hate:</h3>
+        <ol>
+          <li>flea treatment</li>
+          <li>thunder</li> 
+          <li>other cats</li>
+        </ol>
+Step 30
+add figure after ol 
