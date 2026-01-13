@@ -1,0 +1,25 @@
+<element attribute="value"></element>
+This first example uses the href and target attributes. The href attribute specifies the URL of a link and the target attribute specifies where to open the link.
+
+<a href="https://www.freecodecamp.org/news/" target="_blank">Visit freeCodeCamp</a>
+The target="_blank" enables the link to open in a new browser tab. 
+
+Other common attributes are the src, and alt, or alternative, attribute - which is used to specify the source of an image and provide alternative descriptive text for the image, respectively.
+
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch." />
+Some attributes are a little unique with their syntax like the checked attribute.
+
+<input type="checkbox" checked />
+
+Enable the interactive editor and try remove the checked attribute from the input. You will see that the checkbox is no longer checked by default.
+
+<input type="checkbox" input />
+
+There are several common boolean attributes you will encounter in HTML, such as disabled, readonly, and required. These attributes are used to specify the state of an element, such as whether it is disabled, read-only, or required.
+
+change <input type="text" disabled> to <input type="text"> to be able to write inside the empty rectangle at the interactive editor 
+disableda boolean attribute Attributes provide additional information and help define the behavior for HTML elements.
+
+Which of the following is the correct syntax for a boolean attribute?
+
+<input type="checkbox" checked>
