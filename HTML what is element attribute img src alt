@@ -1,0 +1,8 @@
+Hypertext Markup Language
+ HTML elements
+An attribute is a special value used to adjust the behavior for an HTML element.
+ src attribute
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/running-cats.jpg" />
+ another attribute called the alt attribute.
+The alt attribute is used to provide short, descriptive text for the images.
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch." />
